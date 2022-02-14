@@ -10,7 +10,7 @@
 ## About 🎯
  A beautiful Single Page Web App made with React to display all your important social links for your followers (Alternative to linktr.ee).
 
-![Screenshot](https://api.microlink.io/?url=https://bio.devgossips.vercel.app&screenshot=true&meta=false&embed=screenshot.url&waitForTimeout=1500&type=jpeg&overlay.browser=dark&overlay.background=linear-gradient%28225deg%2C+%23FF057C+0%25%2C+%238D0B93+50%25%2C+%23321575+100%25%29)
+//Screenshot here
 
 
 ## How to use ?🤔
@@ -23,13 +23,5 @@
 
 [![Deploy with Vercel](https://vercel.com/button)](https://vercel.com/new/git/external?repository-url=https%3A%2F%2Fgithub.com%2Fdevgossips%2Flinktree)
 
-## :pray: If you find this useful : 
-[![Twitter URL](https://img.shields.io/twitter/url/https/twitter.com/heysagnik.svg?style=social&label=Follow%20%40heysagnik)](https://twitter.com/heysagnik)<b>  &  </b><a href = "https://www.buymeacoffee.com/devgossips"><img src ="https://cdn.buymeacoffee.com/buttons/default-red.png" width="100px" height="25px" style="border-radius:10px;"/></a>
 
-## Contributing 📝
-We always welcome contributions; big or small, it can be documentation updates, adding new checks or something bigger. Please check the Contributing Guide for details on how to help out.
-
-### Special Thanks to those People who have contributed :
-
-<img width="50px" src="https://contrib.rocks/image?repo=devgossips/linktree" />
 
