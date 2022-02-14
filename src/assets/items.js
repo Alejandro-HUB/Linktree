@@ -26,10 +26,10 @@ const items = [{
     "link": "https://portfolium.com/AlejandroLopez97"// portfolio link
 },
 {
-    "title": "Instagram",
-    "subtitle": "@col.alejo | Hub of my awesome 😎 pics",
-    "image": instagram,
-    "link": "https://www.instagram.com/col.alejo/" //instagram profile link
+    "title": "Website",
+    "subtitle": "Look at my work!",
+    "image": website,
+    "link": "https://muszilla.azurewebsites.net/" //your personal website or portfolio  link
 },
 {
     "title": "YouTube",
@@ -38,10 +38,10 @@ const items = [{
     "link": "https://www.youtube.com/user/thecoolAlelopezm"//youtube channel link
 },
 {
-    "title": "Website",
-    "subtitle": "Look at my work!",
-    "image": website,
-    "link": "https://muszilla.azurewebsites.net/" //your personal website or portfolio  link
+    "title": "Instagram",
+    "subtitle": "@col.alejo | Hub of my awesome 😎 pics",
+    "image": instagram,
+    "link": "https://www.instagram.com/col.alejo/" //instagram profile link
 }]
 
 export default items
