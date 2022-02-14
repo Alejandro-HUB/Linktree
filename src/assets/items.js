@@ -41,7 +41,7 @@ const items = [{
     "title": "Website",
     "subtitle": "Look at my work!",
     "image": website,
-    "link": "https://alejandrolopez.org" //your personal website or portfolio  link
+    "link": "https://muszilla.azurewebsites.net/" //your personal website or portfolio  link
 }]
 
 export default items
